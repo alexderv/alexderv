@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/alexderv/Active-Directory-Home-Lab)
 
 - <b>Python</b>
-  - [Keylogger)](https://github.com/alexderv/Keylogger)
+  - [Keylogger](https://github.com/alexderv/Keylogger)
 
 
 
