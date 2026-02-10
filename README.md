@@ -7,7 +7,8 @@
 
 - <b>Python</b>
   - [Keylogger](https://github.com/alexderv/Keylogger)
-  - [Tower Stack Game](https://github.com/alexderv/Tower-Stack-Game/blob/main/stackgame.py) 
+  - [Tower Stack Game](https://github.com/alexderv/Tower-Stack-Game/blob/main/stackgame.py)
+  - [Log Analyzer](https://github.com/alexderv/Log-analyzer/blob/main/loganalyzer.py)
 
 
 
